@@ -1,0 +1,15 @@
+		<!--start: Container -->
+    	<div class="container">
+	
+      		<!-- start: Hero Unit - Main hero unit for a primary marketing message or call to action -->
+      		<div class="hero-unit">
+        		<p>
+					Bloomwise Project adalah brand fashion lokal yang menyediakan berbagai pilihan t-shirt, flanel, hoodie, dan crewneck dengan desain modern dan bahan berkualitas. Kami hadir untuk kamu yang ingin tampil simpel, stylish, dan nyaman setiap hari. Cocok untuk gaya kasual, hangout, hingga daily wear.
+				</p>
+        		<p><a class="btn btn-success btn-large" href="produk.php">Mulai ORDER &raquo;</a></p>
+                                
+      		</div>
+            <!--<div class="title"><h3>Keranjang Anda</h3></div>
+            <div class="hero-unit">
+            </div> -->
+			<!-- end: Hero Unit -->
